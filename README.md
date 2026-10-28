@@ -9,7 +9,15 @@ Will save previous best Ceres time and guess based on the last Ceres time. Maybe
 Will just guess slow mid fast assuming a 3 or 4 round Phantoon. Later on I'll let it store out what your usual phantoon 
 rounds are
 ### Ridley Guessing
-Similar to Ceres Guessing but with Ridley Room time instead
+Similar to Ceres Guessing but with Ridley Room time instead.
+### !lastceres
+Shows last Ceres Escape Time
+### !lastPhantoon
+Shows last Phantoon pattern
+### !lastridley
+Shows last Ridley roomtime
+
+
 
 ## Stream Notes
 Simple set of commands to track notes between streams in bot. By default all are restrictd to stereamer and mods
