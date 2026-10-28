@@ -6,8 +6,7 @@ Set of events that react to FUNtoon only
 ### Ceres Guessing
 Will save previous best Ceres time and guess based on the last Ceres time. Maybe will do something with PB at some point
 ### Phantoon guessing
-Will just guess slow mid fast assuming a 3 or 4 round Phantoon. Later on I'll let it store out what your usual phantoon 
-rounds are
+Will guess slow mid fast based on the number of rounds you did phantoon last time.
 ### Ridley Guessing
 Similar to Ceres Guessing but with Ridley Room time instead
 
